@@ -30,6 +30,7 @@ export default async function Header() {
             width={200}
             height={60}
             className="h-10 w-auto object-contain"
+            priority
           />
         </Link>
 
